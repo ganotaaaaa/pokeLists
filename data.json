@@ -1,0 +1,157 @@
+[
+  {
+    "title": "機動戦士ガンダム",
+    "mobile_suits": [
+      {
+        "name": "ガンダム",
+        "pilot": "アムロ・レイ",
+        "organization": "地球連邦軍"
+      },
+      {
+        "name": "シャア専用ザクII",
+        "pilot": "シャア・アズナブル",
+        "organization": "ジオン公国軍"
+      },
+      {
+        "name": "グフ",
+        "pilot": "ランバ・ラル",
+        "organization": "ジオン公国軍"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士Zガンダム",
+    "mobile_suits": [
+      {
+        "name": "Zガンダム",
+        "pilot": "カミーユ・ビダン",
+        "organization": "エゥーゴ"
+      },
+      {
+        "name": "百式",
+        "pilot": "クワトロ・バジーナ",
+        "organization": "エゥーゴ"
+      },
+      {
+        "name": "ジ・O",
+        "pilot": "パプテマス・シロッコ",
+        "organization": "ティターンズ"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダムZZ",
+    "mobile_suits": [
+      {
+        "name": "ZZガンダム",
+        "pilot": "ジュドー・アーシタ",
+        "organization": "エゥーゴ"
+      },
+      {
+        "name": "キュベレイ",
+        "pilot": "ハマーン・カーン",
+        "organization": "ネオ・ジオン"
+      },
+      {
+        "name": "ザクIII改",
+        "pilot": "マシュマー・セロ",
+        "organization": "ネオ・ジオン"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム 逆襲のシャア",
+    "mobile_suits": [
+      {
+        "name": "νガンダム",
+        "pilot": "アムロ・レイ",
+        "organization": "地球連邦軍"
+      },
+      {
+        "name": "サザビー",
+        "pilot": "シャア・アズナブル",
+        "organization": "ネオ・ジオン"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダムUC",
+    "mobile_suits": [
+      {
+        "name": "ユニコーンガンダム",
+        "pilot": "バナージ・リンクス",
+        "organization": "地球連邦軍"
+      },
+      {
+        "name": "シナンジュ",
+        "pilot": "フル・フロンタル",
+        "organization": "ネオ・ジオン残党軍(袖付き)"
+      },
+      {
+        "name": "クシャトリヤ",
+        "pilot": "マリーダ・クルス",
+        "organization": "ネオ・ジオン残党軍(袖付き)"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダムSEED",
+    "mobile_suits": [
+      {
+        "name": "ストライクガンダム",
+        "pilot": "キラ・ヤマト",
+        "organization": "地球連合軍"
+      },
+      {
+        "name": "イージスガンダム",
+        "pilot": "アスラン・ザラ",
+        "organization": "ザフト"
+      },
+      {
+        "name": "デュエルガンダム",
+        "pilot": "イザーク・ジュール",
+        "organization": "ザフト"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム00",
+    "mobile_suits": [
+      {
+        "name": "ガンダムエクシア",
+        "pilot": "刹那・F・セイエイ",
+        "organization": "ソレスタルビーイング"
+      },
+      {
+        "name": "ユニオンフラッグカスタムII(GNフラッグ)",
+        "pilot": "グラハム・エーカー",
+        "organization": "ユニオン"
+      },
+      {
+        "name": "ティエレン地上型",
+        "pilot": "セルゲイ・スミルノフ",
+        "organization": "人類革新連盟"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム 水星の魔女",
+    "mobile_suits": [
+      {
+        "name": "ガンダム・エアリアル",
+        "pilot": "スレッタ・マーキュリー",
+        "organization": "アスティカシア高等専門学園"
+      },
+      {
+        "name": "ダリルバルデ",
+        "pilot": "グエル・ジェターク",
+        "organization": "ジェターク寮"
+      },
+      {
+        "name": "ガンダム・ファラクト",
+        "pilot": "エラン・ケレス",
+        "organization": "ペイル寮"
+      }
+    ]
+  }
+]
